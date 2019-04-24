@@ -8,5 +8,6 @@ function addElementToBeginningOfArray(array, element) {
 addElementToBeginningOfArray(chocolateBars, 'm&m')
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
+  console.log('hello')
   console.log(array.unshift(element))  // return whole array by modifying the original
 }
