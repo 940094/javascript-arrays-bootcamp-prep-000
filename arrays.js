@@ -4,4 +4,4 @@ function addElementToBeginningOfArray(array, element) {
   console.log(array.unshift(element))
 }
 
-addElementToBeginningOfArray(array, element)
+addElementToBeginningOfArray(chocolateBars, 'm&m')
