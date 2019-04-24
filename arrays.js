@@ -42,4 +42,5 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 
 function removeElementFromEndOfArray(array) {
   new_array = array[0..array.length - 1]
+  return new_array
 }
