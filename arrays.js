@@ -5,7 +5,6 @@ function addElementToBeginningOfArray(array, element) {
   return new_array  // return new array. do not modify the orig.
 }
 
-addElementToBeginningOfArray(chocolateBars, 'm&m')
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
   array = array.unshift(element)  //returnw whole. modifying the original
