@@ -5,3 +5,7 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 addElementToBeginningOfArray(chocolateBars, 'm&m')
+
+function destructivelyAddElementToBeginningOfArray(array, element) {
+  
+}
